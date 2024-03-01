@@ -11,7 +11,7 @@ The Parser MAC-address+ program is designed to facilitate the automation of chan
 4. HTTP Request Handling: Sends HTTP GET requests to a specified URL and captures responses for logging and verification purposes.
 
 A file of this type:  
-[example.jpg](https://postimg.cc/xkrqdD8x)
+![example.jpg](https://i.postimg.cc/jj2fZRbb/example.jpg)
 
 #### How to Use
 
